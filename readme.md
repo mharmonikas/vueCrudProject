@@ -1,3 +1,3 @@
 # Laravel Crud project with Vue.js
 
-Using rest apis.
+Using rest apis and seeders.
